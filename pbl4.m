@@ -1,3 +1,7 @@
+%universidade estadual de feira de santana 
+%codigo criado por Gabriel Antonio Carneiro [gabri14el@gmail.com]
+%ultima modidicacao em 30/03/2019
+
 %==================================
 %           Bloco de Gravacao
 fsample = 11025;                         

@@ -1,3 +1,7 @@
+%universidade estadual de feira de santana 
+%codigo criado por Gabriel Antonio Carneiro [gabri14el@gmail.com]
+%ultima modidicacao em 30/03/2019
+
 function [y] = fft_dt(x,fs, title_text)
 
 x_bak = x;
